@@ -1,1 +1,1 @@
-# myfirst_miniproject_on_HTML-and-CSS
+# MiniProject on HTML and css
